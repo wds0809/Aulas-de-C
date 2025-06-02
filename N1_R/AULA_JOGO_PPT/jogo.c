@@ -12,7 +12,7 @@ int main(){
     numeroComputador = rand() % 100 + 1; // número entre 1 e 100
 
     // inicio do jogo
-    printf("bem-vindo ao jogo Maior, Menor ou Igual!\n");
+    printf("Bem-vindo ao jogo Maior, Menor ou Igual!\n");
     printf("Você deve escolher um número e o tipo de comparação.\n");
     printf("M. Maior\n");
     printf("N. Menor\n");
